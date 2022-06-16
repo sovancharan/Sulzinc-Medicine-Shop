@@ -1,0 +1,152 @@
+
+
+@media only screen and (max-width: 992px) {
+    .dono-comparar-outer{
+        display: none !important;
+
+    }
+    .sulzinc-dosis {
+    background-image: url(../Img/Fondo\ Morado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    padding-top: 35rem !important;
+    top: -13rem;
+    z-index: 1;
+}
+  }
+  @media only screen and (min-width: 992px) {
+.dono-comparar-inner{
+    display: none !important;
+}
+  }
+
+  @media (min-width: 768px) and (max-width: 1199.98px) { 
+
+    .medecine-img {
+        right: 2.5rem !important;
+        width: 35% !important;
+       
+        top: 21rem !important;
+    }
+   }
+   @media (min-width: 300px) and (max-width: 768px) { 
+   .medecine-img {
+    right: 10.5rem !important;
+    width: 38% !important;
+    top: 52rem !important;
+}
+    .dot-img {
+    top: 0rem !important;
+    width: 26% !important;
+    right: -3rem !important;
+}
+    }
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+     .blog-img{
+        width: 100% !important;
+     }
+
+
+
+}
+
+@media (min-width: 300px) and (max-width: 767.98px) {
+
+.blog-1st-img{
+    margin-left: 3rem !important;
+}
+
+}
+ @media (min-width: 438px) and (max-width: 768px) { 
+
+    .medecine-img {
+    right: 14.5rem !important;
+    width: 35% !important;
+    top: 46rem !important;
+}
+
+.dot-img {
+    top: 0rem !important;
+    width: 26% !important;
+    right: -10rem !important;
+}
+
+ }
+
+  @media (min-width: 300px) and (max-width: 400px) { 
+
+    .medecine-img {
+    right: 7.5rem !important;
+    width: 40% !important;
+    top: 63rem !important;
+}
+
+  }
+
+  @media (min-width: 300px) and (max-width: 400px) { 
+    .medecine-img {
+        right: 8.5rem !important;
+        width: 40% !important;
+        top: 54rem !important;
+    }
+  }
+
+  @media (min-width: 438px) and (max-width: 500px) { 
+  
+    .medecine-img {
+        right: 12.5rem !important;
+        width: 35% !important;
+        top: 50rem !important;
+    }
+
+}
+
+@media  (max-width: 300px) { 
+
+    .medecine-img {
+        right: 8.5rem !important;
+        width: 40% !important;
+        top: 54rem !important;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .medecine-img {
+        right: 2.5rem !important;
+        width: 35% !important;
+        top: 11rem !important;
+    }
+
+}
+
+@media (min-width: 1400px) and (max-width: 1900px) {
+
+    .dot-img {
+        top: 4rem !important;
+        width: 26% !important;
+        right: -13rem !important;
+    }
+
+    .medecine-img {
+        right: 11.5rem !important;
+        width: 25% !important;
+        top: 9rem !important;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 767px) {
+.SulZinc-Pediátrico-col {
+    margin-left: 2.5rem !important;
+}
+}
+
+@media (min-width: 600px) and (max-width: 767px) {
+    .blog-1st-img {
+        margin-left: 3.5rem !important;
+    }
+}
